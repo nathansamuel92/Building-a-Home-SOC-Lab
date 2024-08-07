@@ -1,3 +1,3 @@
-# Building-a-Home-SOC-Lab
+# Building a Home SOC Lab
 
 🛠️ Under Construction...
